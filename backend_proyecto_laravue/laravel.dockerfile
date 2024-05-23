@@ -9,8 +9,8 @@ RUN apt-get update && apt-get install -y \
     libpng-dev \
     zip \
     unzip \
-    libzip \
     libzip-dev \
+    libpq-dev \
     vim \
     git \
     curl \
